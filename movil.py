@@ -4,7 +4,7 @@ import json
 import os
 
 # Configuración de la pantalla móvil para internet
-st.set_page_config(page_title="Control WISP", page_icon="📶", layout="centered")
+st.set_page_config(page_title="Control WISP", page_icon="logo.jpeg", layout="centered")
 
 # Almacenamiento seguro en la sesión de la nube
 ARCHIVO_DATOS = "clientes.json"
